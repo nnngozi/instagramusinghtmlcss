@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.giantbox {
+    margin: auto;
+    margin-top: 45px;
+    background-color: bisque;
+    width: 500px;
+    height: 600px;
+}
+
+.whitebg {
+    background: white;
+    height: 80px;
+    display: flex;
+}
+
+.tml {
+    padding: 15px;
+}
+
+.whitebg h1 {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.whitebg h2 {
+    font-size: large;
+}
+
+.icon {
+    padding-left: 320px;
+    padding-top: 10px;
+}
+.hml{
+    align-content: column;
+}
+.rigo{
+    margin-top: -15px;
+}
+.emojis{
+    padding: 10px;
+}
+.book{
+    float: right;
+}
+.liked{
+    padding: 10px;
+    font-size: larger;
+}
+.lasttext{
+    padding: 10px;
+    font-size: small;
+}
